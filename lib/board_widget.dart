@@ -1,7 +1,5 @@
 import 'package:flutter/material.dart';
 import 'package:four_in_a_row/game_manager.dart';
-
-// TODO - comment, create board managing system, reset & play buttons.
 /// This class represents a simple 4 in a row board.
 class BoardWidget extends StatefulWidget {
   const BoardWidget({Key? key}) : super(key: key);
